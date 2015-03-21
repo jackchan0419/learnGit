@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Create a branch is quicik
 No fast forward mode test.
+Test diff.
